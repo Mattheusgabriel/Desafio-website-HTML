@@ -1,0 +1,24 @@
+A história da internet é uma narrativa fascinante que se estende desde o contexto da Guerra Fria até os dias atuais, transformando radicalmente a forma como nos comunicamos, trabalhamos, aprendemos e nos entretemos. Durante a Guerra Fria, as preocupações com a segurança e a troca rápida de informações entre instituições militares e acadêmicas levaram ao desenvolvimento dos primeiros sistemas de comunicação digital, que serviram como os alicerces para a internet moderna.
+
+O projeto Arpanet foi um marco fundamental nesse processo. Idealizado como uma rede descentralizada e resistente a falhas, o Arpanet permitiu que universidades, centros de pesquisa e instituições militares compartilhassem dados e recursos de forma mais eficiente e segura. A primeira conexão bem-sucedida em 1969 entre a Universidade da Califórnia e o Instituto de Pesquisa de Stanford simboliza o nascimento da internet como a conhecemos hoje.
+
+No entanto, foi a criação da World Wide Web por Tim Berners-Lee na década de 90 que verdadeiramente democratizou o acesso à internet e mudou para sempre a maneira como interagimos com a informação digital. A World Wide Web introduziu conceitos como hipertexto, URLs e navegadores, tornando a navegação na internet acessível e intuitiva para o público em geral.
+
+O surgimento de navegadores como o Internet Explorer, Netscape e Mozilla Firefox foi essencial para a popularização da internet, oferecendo interfaces amigáveis e recursos avançados para os usuários explorarem a vastidão de informações disponíveis online. Com o tempo, a internet evoluiu além de uma ferramenta de comunicação para se tornar um ecossistema global onde ideias, negócios, entretenimento e conhecimento se entrelaçam de maneiras inimagináveis.
+
+Hoje, a internet é um reflexo da sociedade moderna, incorporando tecnologias como inteligência artificial, internet das coisas, computação em nuvem e redes sociais, moldando continuamente nosso modo de vida e abrindo novas oportunidades e desafios em todas as esferas da sociedade.
+
+Como funciona o html ?
+
+Você sabia que as tags HTML estão mais presentes no dia a dia do que se imagina? Elas são dispostas quando você abre alguma página da internet e se depara com algum conteúdo. O formato, em estrutura e elementos, foi ordenado de forma legível em HTML.
+
+Entender sobre as Tags HTML é importante, pois elas são marcadores usados ​​para delimitar seções de um documento HTML.
+
+Cada tag HTML tem um significado semântico e define um bloco de conteúdo que pode ser manipulado pelo navegador. Por exemplo, as tags podem delimitar um parágrafo, texto em negrito, texto itálico e assim vai.
+
+O uso das tags HTML são extremamente úteis porque permitem que os navegadores interpretem e apresentem corretamente o conteúdo. Além disso, as tags HTML também podem ser usadas para aplicar estilos a um documento HTML usando folhas de estilo em cascata (CSS).
+
+Aliás, não confunda de forma alguma. O HTML é uma linguagem, mas não é uma linguagem de programação.
+
+Nesse conteúdo você vai entender o que são tags HTML, como elas funcionam, benefícios, desvantagens e como aprender a aplicabilidade em uma página web. Boa leitura!
+
